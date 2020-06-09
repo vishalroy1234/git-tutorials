@@ -9,4 +9,5 @@
 8.//if u r using git bash then use the SSH url otherwise use the https url
    git remote add origin git@github.com:vishalroy1234/git-tutorials.git
   //whatever u will push gets pushed in this SSH url
-9.
+9.git push -u origin master//to push ur files
+10.git pull origin master//to pull ur files from github to local dir
