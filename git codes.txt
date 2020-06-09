@@ -6,4 +6,7 @@
 5.git log//shows what are the changes made by whom
 6.git config --global user.name "loduRoy"//sets the userName 
 7.git config --global user.email "lodu@lodu.com"//sets the email
-8.
+8.//if u r using git bash then use the SSH url otherwise use the https url
+   git remote add origin git@github.com:vishalroy1234/git-tutorials.git
+  //whatever u will push gets pushed in this SSH url
+9.
