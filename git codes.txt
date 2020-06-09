@@ -2,6 +2,9 @@
 2.git init    //Initialized empty Git repository in C:/Users/USER/Desktop/git repo/.git/
 
 3.git add .  //all files are moved from working dir to staging area
+	     //stages new and modifies,without deleted
+  git add -A  //stages All
+  git add -u  //stages modified and deleted ,without new
 4.git commit -m "version 1"
 5.git log//shows what are the changes made by whom
 6.git config --global user.name "loduRoy"//sets the userName 
