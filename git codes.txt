@@ -11,4 +11,5 @@
   //whatever u will push gets pushed in this SSH url
 9.git push -u origin master//to push ur files
 10.git pull origin master//to pull ur files from github to local dir
-11.git diff git codes.txt//tells u what changes u have made
+11.git diff "git codes.txt"//tells u what changes u have made
+12.git diff --staged "git codes.txt"//tells u what changes u have made at the staged level
