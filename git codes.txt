@@ -13,3 +13,8 @@
 10.git pull origin master//to pull ur files from github to local dir
 11.git diff "git codes.txt"//tells u what changes u have made
 12.git diff --staged "git codes.txt"//tells u what changes u have made at the staged level
+13.git reset "git codes.txt"//to unstage
+14.git checkout "git codes.txt"//stage krne se pehle jaisa tha waisa ho jaiga
+                                //return to ur last commit
+15.git checkout .//retrns all ur files to their last commit
+16.
