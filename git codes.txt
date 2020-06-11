@@ -21,3 +21,12 @@
                                 //return to ur last commit
 15.git checkout .//retrns all ur files to their last commit
 16.git clone something(url that uses ssh)//clones for u
+17.touch .gitignore//this creates a blank file(read about .gitignore online ie how to ignore some files)
+18.git branch//shows the branches
+19.git branch login-system//creates a branch of the master having a name of login-system 
+20.git checkout login-system//leave the master branch and move to login-system branch ie switch to 
+                             //login-ystem branch.
+21.git merge login-system//merges login-system branch with the master branch.
+22.git branch -d login-system//after merging we got redundant branches so it is advisable to delete the                                redundant branch
+                             //this deletes the branch from our local storage but in git hub we still                                   have this branch.To delete that also see the below command!!!
+23.git push origin --delete login-system//deletes this branch even from github
