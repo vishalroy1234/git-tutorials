@@ -20,4 +20,4 @@
 14.git checkout "git codes.txt"//stage krne se pehle jaisa tha waisa ho jaiga
                                 //return to ur last commit
 15.git checkout .//retrns all ur files to their last commit
-16.
+16.git clone something(url that uses ssh)//clones for u
